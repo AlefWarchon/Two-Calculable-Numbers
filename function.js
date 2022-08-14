@@ -83,10 +83,10 @@ Realizaremos diversos cálculos!`)
 
   if (option == 1) {
     alert(`
-Os números escolhidos foram: ${numberOne} e ${numberTwo}.
-${sameOrDifferent}.
+Os números escolhidos foram: ${numberOne} e ${numberTwo}
+${sameOrDifferent}
 ${sum}
-${pairOrOdd}.
+${pairOrOdd}
 ${sub}
 ${div}
 ${restDiv}
