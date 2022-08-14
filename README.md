@@ -58,6 +58,3 @@ But I was very satisfied with the result and now I can go on to the next challen
 <a href="https://www.linkedin.com/in/alef-warchon-400571245/" target="_blank"><img 
 src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </a>
-<a href="https://www.youtube.com/channel/UC8NcQCGYRvwA5iB7lIy7rCg" target="_blank"><img 
-src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
-</a>
