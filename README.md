@@ -1,5 +1,15 @@
 ## <h1 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Two Calculable Numbers 🧮</h1>
 
+<br/>
+
+<p align="center">
+The purpose of creating this program was to practice what I learned in the rocketseat explorer course.
+<br/>
+And in fact it was very important because I made it from zero without consulting and having to fix the bugs!
+<br/>
+But I was very satisfied with the result and now I can go on to the next challenge!
+</p>
+
 <h3 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Learnings :open_book:</h3>
 
 <p align="center">
